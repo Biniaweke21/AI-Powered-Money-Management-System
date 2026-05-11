@@ -299,7 +299,7 @@ Software Engineer · Future Founder
 
 [![GitHub](https://img.shields.io/badge/GitHub-BiniyamAweke-black?style=flat-square&logo=github)](https://github.com/Biniaweke21)
 [![Telegram](https://img.shields.io/badge/Telegram-@Hacuna_matataa-2AABEE?style=flat-square&logo=telegram)](https://t.me/Hacuna_matataa)
-[![Gmail](https://img.shields.io/badge/Gmail-tedrosmilion19-EA4335?style=flat-square&logo=gmail)](mailto:biniaweke2194@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-biniaweke2194-EA4335?style=flat-square&logo=gmail)](mailto:biniaweke2194@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+251953213546-25D366?style=flat-square&logo=whatsapp)](tel:+251953213546)
 
 *Built by Biniyam Aweke in Ethiopia*
