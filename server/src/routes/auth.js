@@ -75,7 +75,7 @@ function otpEmailHtml(firstName, otp) {
         <p style="color:#64748b;font-size:12px;margin:0">If you did not request this, ignore this email.</p>
       </div>
       <div style="background:#0a0c12;padding:16px;text-align:center">
-        <p style="color:#475569;font-size:11px;margin:0">&copy; ${new Date().getFullYear()} ስሙኒ ዋሌት &mdash; Built by Teddy</p>
+        <p style="color:#475569;font-size:11px;margin:0">&copy; ${new Date().getFullYear()} ስሙኒ ዋሌት &mdash; Built by Biniyam Aweke</p>
       </div>
     </div>
   `;
@@ -271,7 +271,7 @@ router.post('/forgot-password', async (req, res) => {
             <p style="color:#10b981;font-size:11px;word-break:break-all;margin:0">${resetUrl}</p>
           </div>
           <div style="background:#0a0c12;padding:16px;text-align:center">
-            <p style="color:#475569;font-size:11px;margin:0">&copy; ${new Date().getFullYear()} ስሙኒ ዋሌት &mdash; Built by Teddy</p>
+            <p style="color:#475569;font-size:11px;margin:0">&copy; ${new Date().getFullYear()} ስሙኒ ዋሌት &mdash; Built by Biniyam Aweke</p>
           </div>
         </div>
       `,

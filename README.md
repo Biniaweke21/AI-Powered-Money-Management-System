@@ -294,15 +294,15 @@ Set all environment variables in your hosting dashboard.
 
 <div align="center">
 
-**Tewodros Million (BoB)**
+**Biniyam Aweke (BoB)**
 Software Engineer · Future Founder
 
-[![GitHub](https://img.shields.io/badge/GitHub-teddymillion-black?style=flat-square&logo=github)](https://github.com/teddymillion)
-[![Telegram](https://img.shields.io/badge/Telegram-@Lataxv7-2AABEE?style=flat-square&logo=telegram)](https://t.me/Lataxv7)
+[![GitHub](https://img.shields.io/badge/GitHub-BiniyamAweke-black?style=flat-square&logo=github)](https://github.com/teddymillion)
+[![Telegram](https://img.shields.io/badge/Telegram-@Hacuna_matataa-2AABEE?style=flat-square&logo=telegram)](https://t.me/Hacuna_matataa)
 [![Gmail](https://img.shields.io/badge/Gmail-tedrosmilion19-EA4335?style=flat-square&logo=gmail)](mailto:tedrosmilion19@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+251947134309-25D366?style=flat-square&logo=whatsapp)](tel:+251947134309)
+[![Phone](https://img.shields.io/badge/Phone-+251953213546-25D366?style=flat-square&logo=whatsapp)](tel:+251953213546)
 
-*Built with Teddy in Ethiopia*
+*Built with Biniyam Aweke in Ethiopia*
 
 </div>
 
@@ -310,4 +310,4 @@ Software Engineer · Future Founder
 
 ## License
 
-MIT © 2026 Tewodros Million. All rights reserved.
+MIT © 2026 Biniyam Aweke. All rights reserved.

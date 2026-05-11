@@ -33,7 +33,7 @@ const SECTIONS_EN = [
   },
   {
     title: '7. Intellectual Property',
-    body: `All content, design, code, and branding associated with ስሙኒ ዋሌት are the intellectual property of the developer (Tedros Milion) and are protected under applicable copyright and trademark laws. You may not reproduce, distribute, or create derivative works without prior written permission.`,
+    body: `All content, design, code, and branding associated with ስሙኒ ዋሌት are the intellectual property of the developer (Biniyam Aweke) and are protected under applicable copyright and trademark laws. You may not reproduce, distribute, or create derivative works without prior written permission.`,
   },
   {
     title: '8. Limitation of Liability',
@@ -45,7 +45,7 @@ const SECTIONS_EN = [
   },
   {
     title: '10. Contact',
-    body: `If you have any questions about these Terms of Service, please contact us at tedrosmilion19@gmail.com or reach out via Telegram at @Lataxv7.`,
+    body: `If you have any questions about these Terms of Service, please contact us at tedrosmilion19@gmail.com or reach out via Telegram at @Hacuna_matataa.`,
   },
 ];
 
@@ -88,7 +88,7 @@ const SECTIONS_AM = [
   },
   {
     title: '10. ያግኙን',
-    body: `ስለእነዚህ የአገልግሎት ውሎች ማንኛውም ጥያቄ ካለዎ፣ እባክዎ በ tedrosmilion19@gmail.com ያግኙን ወይም በቴሌግራም @Lataxv7 ያግኙን።`,
+    body: `ስለእነዚህ የአገልግሎት ውሎች ማንኛውም ጥያቄ ካለዎ፣ እባክዎ በ tedrosmilion19@gmail.com ያግኙን ወይም በቴሌግራም @Hacuna_matataa ያግኙን።`,
   },
 ];
 
@@ -140,7 +140,7 @@ export default function TermsPage() {
           <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} ስሙኒ ዋሌት. {t('footerRights')}</p>
           <div className="flex gap-4 text-xs">
             <a href="mailto:tedrosmilion19@gmail.com" className="text-muted-foreground hover:text-foreground transition-colors">tedrosmilion19@gmail.com</a>
-            <a href="https://t.me/Lataxv7" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">@Lataxv7</a>
+            <a href="https://t.me/Hacuna_matataa" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">@Hacuna_matataa</a>
           </div>
         </div>
       </div>

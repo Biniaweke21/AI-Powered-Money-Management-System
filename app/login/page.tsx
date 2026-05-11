@@ -211,7 +211,7 @@ export default function LoginPage() {
               </div>
             ))}
           </div>
-          <p className="text-white/25 text-xs">© {new Date().getFullYear()} ስሙኒ ዋሌት — Built by Teddy</p>
+          <p className="text-white/25 text-xs">© {new Date().getFullYear()} ስሙኒ ዋሌት — Built by Biniyam Aweke</p>
         </div>
       </div>
 

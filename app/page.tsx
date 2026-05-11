@@ -105,7 +105,7 @@ const STATS_AM = [
 
 const TESTIMONIALS_EN = [
   { 
-    name: 'Biniyam Aweke', 
+    name: 'Tewodros million', 
     role: 'Senior Data Science Analyst & Freelancer', 
     company: 'ConDigital Technologys PLC',
     companyIcon: '/condigital.jpg',

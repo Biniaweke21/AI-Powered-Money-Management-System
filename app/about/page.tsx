@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { ArrowLeft, ArrowRight, Mail } from 'lucide-react';
 import { useLang } from '@/lib/language-context';
 import { LanguageToggle } from '@/components/language-toggle';
+/*comment*/
 
 export default function AboutPage() {
   const { t, lang } = useLang();
@@ -91,7 +92,7 @@ export default function AboutPage() {
                   <div className="w-full h-full rounded-full overflow-hidden bg-card">
                     <Image
                       src="/teddy.jpg"
-                      alt="Tewodros Million"
+                      alt="Biniyam Aweke"
                       width={176}
                       height={176}
                       unoptimized
@@ -119,10 +120,10 @@ export default function AboutPage() {
               {/* Name + alias */}
               <div className="space-y-1">
                 <div className="flex items-center justify-center sm:justify-start gap-3 flex-wrap">
-                  <h2 className="text-3xl font-black text-foreground tracking-tight">Tewodros Million</h2>
+                  <h2 className="text-3xl font-black text-foreground tracking-tight">Biniyam Aweke</h2>
                   <span className="px-2.5 py-0.5 rounded-lg bg-secondary border border-border text-muted-foreground text-xs font-bold tracking-widest">BoB</span>
                 </div>
-                <p className="text-accent font-semibold text-sm">@teddymillion</p>
+                <p className="text-accent font-semibold text-sm">@Hacuna_matataa</p>
               </div>
 
               {/* Bio */}

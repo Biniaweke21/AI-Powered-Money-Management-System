@@ -272,7 +272,7 @@ const translations = {
     terms:                'Terms of Service',
     contact:              'Contact',
     support:              'Support',
-    builtWithLove:        'Built with ❤️ in Ethiopia by Teddy.',
+    builtWithLove:        'Built with ❤️ in Ethiopia by Biniyam Aweke.',
     allSystemsOp:         'All systems operational',
     loggedIn:             'Logged in',
 
@@ -577,7 +577,7 @@ const translations = {
     terms:                'የአገልግሎት ውሎች',
     contact:              'ያግኙን',
     support:              'ድጋፍ',
-    builtWithLove:        'በኢትዮጵያ በ Teddy በ❤️ የተገነባ።',
+    builtWithLove:        'በኢትዮጵያ በ Biniyam Aweke በ❤️ የተገነባ።',
     allSystemsOp:         'ሁሉም ስርዓቶች እየሰሩ ነው',
     loggedIn:             'ገብተዋል',
 
